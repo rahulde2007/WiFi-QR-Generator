@@ -307,6 +307,14 @@ button:active {
   box-shadow: 2px 2px 0px #FF5757;
 }
 
+#download-jpg-btn {
+  margin-top: 1rem;
+}
+
+#download-jpg-btn.hidden {
+  display: none !important;
+}
+
 /* Printing styles */
 @media print {
   body {
