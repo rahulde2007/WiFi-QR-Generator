@@ -124,6 +124,7 @@ h2::after {
 }
 
 @keyframes scan {
+
   0%,
   100% {
     top: 0%;
@@ -247,6 +248,7 @@ input:focus {
 }
 
 @keyframes floatIcon {
+
   0%,
   100% {
     transform: translateY(0) rotate(-5deg);

@@ -12,7 +12,7 @@ function initApp() {
   const qrContainer = document.querySelector('#qr-container') || document.querySelector('.qr-container');
 
   const defaultTitle = document.title;
-  const cleanTitle = defaultTitle.replace(/\s*\|\s*@coding\.stella/i, '').replace(/@coding\.stella/i, '').trim();
+  const cleanTitle = defaultTitle.replace(/\s*\|\s*@rahulde2007/i, '').replace(/@rahulde2007/i, '').trim();
 
   let bounceTimeout = null;
 
