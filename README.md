@@ -167,16 +167,3 @@ Compatible with all modern web browsers supporting standard HTML5, CSS Grid/Flex
 - **Ephemeral State**: Network credentials are not persisted in `localStorage`, cookies, or remote databases. Refreshing or closing the tab clears the session state.
 
 ---
-
-## License
-
-No formal repository-level license has been designated for this project yet.
-
-The bundled QR generation library located at `assets/qrcode.min.js` is based on the Kazuhiko Arase QR Code library (MIT / Public Domain).
-
----
-
-## Credits
-
-- **Design / Project Concept**: Referenced in project markup as `@coding.stella`.
-- **QR Code Algorithm**: Kazuhiko Arase (`qrcode.min.js`).
